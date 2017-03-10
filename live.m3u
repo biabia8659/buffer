@@ -167,10 +167,16 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/81.mpegts
 #EXTINF:-1    group-title="Streams",Love Nature
 http://free-premium-iptv.ddns.net:9090/load/freestreams/82.mpegts
 #EXTINF:-1    group-title="Streams",Food Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/61.ts
 #EXTINF:-1    group-title="Streams",HGTV
 http://free-premium-iptv.ddns.net:9090/load/freestreams/84.mpegts
 #EXTINF:-1    group-title="Streams",DYI Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
 #EXTINF:-1    group-title="Streams",BOX Nation
 http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/149.ts
+#EXTINF:-1    group-title="Streams",Disney
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/107.ts
+#EXTINF:-1    group-title="Streams",Disney Jr.
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/108.ts
+#EXTINF:-1    group-title="Streams",Disney XD
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/109.ts
