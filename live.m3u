@@ -155,7 +155,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/75.mpegts
 #EXTINF:-1    group-title="Streams",H2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
 #EXTINF:-1    group-title="Streams",National Geographic
-http://free-premium-iptv.ddns.net:9090/load/freestreams/77.mpegts
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/119.ts
 #EXTINF:-1    group-title="Streams",Nat Geo Wild
 http://free-premium-iptv.ddns.net:9090/load/freestreams/78.mpegts
 #EXTINF:-1    group-title="Streams",Animal Planet
