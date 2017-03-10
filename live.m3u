@@ -15,7 +15,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/86.mpegts
 #EXTINF:-1    group-title="Streams",FOX
 http://free-premium-iptv.ddns.net:9090/load/freestreams/6.mpegts
 #EXTINF:-1    group-title="Streams",SYFY
-http://free-premium-iptv.ddns.net:9090/load/freestreams/7.mpegts
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/85.ts
 #EXTINF:-1    group-title="Streams",SPIKE
 http://free-premium-iptv.ddns.net:9090/load/freestreams/8.mpegts
 #EXTINF:-1    group-title="Streams",TBS
