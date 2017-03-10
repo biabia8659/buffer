@@ -160,6 +160,8 @@ http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/119.ts
 http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/120.ts
 #EXTINF:-1    group-title="Streams",Animal Planet
 http://free-premium-iptv.ddns.net:9090/load/freestreams/79.mpegts
+#EXTINF:-1    group-title="Streams",Discovery Turbo HD
+http://sutverduz.com:8080/live/Yiw6AscAjY/t5mjKkALy4/1126.ts
 #EXTINF:-1    group-title="Streams",Investigation Discovery
 http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/29.ts
 #EXTINF:-1    group-title="Streams",Velocity
